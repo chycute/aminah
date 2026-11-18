@@ -1,0 +1,6 @@
+{
+  "name": "GIS Logistik — Global Institute of Studies",
+  "description": "Halaman rasmi pertanyaan kursus Logistik untuk lepasan SPM & ibu bapa bersama Global Institute of Studies (GIS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

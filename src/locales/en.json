@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "title": "Logistics Course for SPM Leavers | Global Institute of Studies (GIS)",
+    "description": "Help your child take their first step into logistics and supply chain training with Global Institute of Studies (GIS). Instalment payment options & PTPK financing subject to eligibility."
+  },
+  "nav": {
+    "brand": "GIS Logistics",
+    "program": "Programme",
+    "benefits": "Why GIS",
+    "alumni": "Alumni",
+    "faq": "FAQ",
+    "cta": "Enquire Now",
+    "menuOpen": "Open navigation menu",
+    "menuClose": "Close navigation menu",
+    "langToggleLabel": "Switch language"
+  },
+  "hero": {
+    "kicker": "Global Institute of Studies · Logistics Programme for SPM Leavers",
+    "headline": "Just Finished SPM? The Right Choice Can Shape Your Child’s Next Step.",
+    "subheadline": "Explore industry-oriented logistics training at GIS, with instalment payment options, PTPK financing subject to eligibility, and a learning environment built around practical skills development.",
+    "primaryCta": "Enquire About the Course",
+    "secondaryCta": "Explore GIS Benefits",
+    "highlights": [
+      "Industry-Oriented Training",
+      "Instalment Payment Options",
+      "PTPK Financing Subject to Eligibility"
+    ],
+    "imageAlt": "Young Malaysian logistics trainees checking inventory on a tablet and scanning parcel barcodes inside a bright, modern fulfilment centre",
+    "mediaCaption": "Illustrative logistics training visual · Official GIS campus photography will be updated prior to publication."
+  },
+  "concerns": {
+    "eyebrow": "Understanding Parents’ Questions",
+    "title": "Common Questions Families Ask After SPM Results",
+    "subtitle": "Choosing the next step after SPM is a meaningful family decision. Here are the practical concerns parents most frequently raise before enrolling.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Varying Registration & Upfront Costs",
+        "description": "Many families look for structured vocational education without having to pay the entire programme fee in a single lump sum at registration."
+      },
+      {
+        "num": "02",
+        "title": "Clarity on Real-World Career Prospects",
+        "description": "Parents want to know their child is learning practical skills aligned with real operational demand rather than purely abstract theory."
+      },
+      {
+        "num": "03",
+        "title": "Matching the Course to Your Child’s Strengths",
+        "description": "Not every school leaver thrives in traditional lecture-heavy tracks. Many excel in hands-on operations, coordination, and team workflows."
+      },
+      {
+        "num": "04",
+        "title": "Comfort & Support When Studying Away From Home",
+        "description": "Parents rightly ask about the study atmosphere, student support structures, and daily learning environment before committing."
+      }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "The Global Institute of Studies Approach",
+    "title": "How GIS Supports Your Child’s Training Journey",
+    "subtitle": "Our student and family support options are structured to give parents clarity on finances and students a practical foundation.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Instalment Payment Options",
+        "description": "Staged payment arrangements help families plan education expenses more comfortably. Specific instalment schedules are confirmed at enquiry."
+      },
+      {
+        "num": "02",
+        "title": "PTPK Financing Option",
+        "description": "Eligible Malaysian applicants may explore Skills Development Fund Corporation (PTPK) financing, subject to current eligibility criteria and official approval."
+      },
+      {
+        "num": "03",
+        "title": "Updated Practical Teaching",
+        "description": "Structured instruction combining foundational supply-chain principles, transport documentation, inventory control, and daily operational exercises."
+      },
+      {
+        "num": "04",
+        "title": "Upgraded Learning Facilities",
+        "description": "Clean, bright, and well-organised study spaces designed to help new post-SPM students focus comfortably on classroom and practical sessions."
+      }
+    ]
+  },
+  "logistics": {
+    "eyebrow": "Understanding the Field",
+    "title": "What Do Students Actually Learn in Logistics?",
+    "subtitle": "Logistics keeps goods moving smoothly—from e-commerce fulfilment centres and stockrooms to port freight documentation and daily delivery coordination.",
+    "pillars": [
+      {
+        "title": "Warehouse & Fulfilment Operations",
+        "description": "Understanding racking layout, inbound goods receiving, storage zoning, and safe material handling practices."
+      },
+      {
+        "title": "Inventory Control & Barcode Tracking",
+        "description": "Monitoring stock levels, scanning barcodes, reconciling inbound/outbound records, and maintaining accurate inventory logs."
+      },
+      {
+        "title": "Distribution & Transport Coordination",
+        "description": "Scheduling deliveries, planning domestic distribution routes, preparing consignment documents, and coordinating with carriers."
+      },
+      {
+        "title": "Supply Chain Fundamentals",
+        "description": "Seeing how suppliers, manufacturers, distribution hubs, and end customers connect across an integrated supply chain."
+      }
+    ],
+    "trainingImageAlt": "Young Malaysian logistics trainee scanning a shipping carton barcode with a handheld scanner in a bright training centre",
+    "hubImageAlt": "Sunlit elevated view of a modern Malaysian logistics distribution hub with neatly organised shipping containers and delivery bays",
+    "campusImageAlt": "Students and lecturer discussing route optimisation maps with laptops in a bright contemporary logistics classroom",
+    "mediaNote": "Imagery shown illustrates typical logistics environments; verified module syllabi are shared directly by GIS advisors."
+  },
+  "journey": {
+    "eyebrow": "Student Progression Pathway",
+    "title": "From Initial Interest to Workplace Readiness",
+    "subtitle": "Students progress step by step so parents can see tangible growth in confidence, discipline, and operational capability.",
+    "steps": [
+      {
+        "step": "Stage 01",
+        "title": "Interest & Advisory Consultation",
+        "description": "An open conversation with a GIS advisor to review student interests, entry requirements, and suitable payment or financing options."
+      },
+      {
+        "step": "Stage 02",
+        "title": "Core Logistics Foundations",
+        "description": "Building familiarity with industry terminology, shipping documentation, stock records, and workplace professionalism."
+      },
+      {
+        "step": "Stage 03",
+        "title": "Hands-On Skills Training",
+        "description": "Guided exercises in inventory tracking, order fulfilment workflows, delivery scheduling, and team coordination."
+      },
+      {
+        "step": "Stage 04",
+        "title": "Career Preparation",
+        "description": "CV preparation, interview readiness, and practical guidance for entering entry-level logistics and supply chain roles."
+      }
+    ]
+  },
+  "careers": {
+    "eyebrow": "Potential Career Pathways",
+    "title": "Areas Graduates Can Explore After Completion",
+    "subtitle": "Training in logistics prepares graduates to apply for a variety of operational support roles, depending on individual performance and employer hiring needs.",
+    "disclaimer": "Transparent note: The roles below represent potential industry career pathways and do not constitute guaranteed job placements.",
+    "roles": [
+      {
+        "title": "Warehouse & Fulfilment Operations",
+        "description": "Supporting goods receiving, parcel inspection, stock put-away, and accurate customer order dispatch."
+      },
+      {
+        "title": "Inventory Control Assistant",
+        "description": "Tracking daily stock balances, assisting with cycle counts, and maintaining warehouse management system records."
+      },
+      {
+        "title": "Logistics & Dispatch Coordinator",
+        "description": "Coordinating delivery schedules, transport paperwork, and communication between warehouse teams and clients."
+      },
+      {
+        "title": "Supply Chain Support",
+        "description": "Assisting procurement teams, monitoring supplier shipment timelines, and compiling operational movement reports."
+      }
+    ]
+  },
+  "campus": {
+    "eyebrow": "Campus & Student Experience",
+    "title": "A Structured Environment Built for Focus",
+    "subtitle": "We prioritise a calm, well-supported learning setting suited to students transitioning from secondary school into vocational training.",
+    "highlights": [
+      {
+        "title": "Dedicated Admissions & Student Advisors",
+        "description": "Parents and students can speak directly with an advisor regarding timetables, required documents, and ongoing study support."
+      },
+      {
+        "title": "Verified Campus & Accommodation Guidance",
+        "description": "Current campus location details, public transport access, and student accommodation arrangements are confirmed directly with GIS staff."
+      },
+      {
+        "title": "Workplace Habits & Teamwork",
+        "description": "Daily routines encourage punctuality, clear reporting, and collaborative problem-solving valued by logistics employers."
+      }
+    ],
+    "cta": "Ask an Advisor About Campus Facilities"
+  },
+  "alumni": {
+    "eyebrow": "Student & Parent Voices",
+    "title": "Learning Experiences at GIS",
+    "notice": "Illustrative placeholder profiles — verified alumni stories with written publication consent are pending official GIS release.",
+    "pauseLabel": "Pause",
+    "playLabel": "Play",
+    "prevLabel": "Previous testimonial",
+    "nextLabel": "Next testimonial",
+    "slideIndicator": "Profile {current} of {total}",
+    "portraitAlt": "Illustrative portrait of a young Malaysian logistics graduate standing in a bright sunlit warehouse corridor",
+    "items": [
+      {
+        "name": "Sample Profile: Nurul Aina (Illustrative)",
+        "cohort": "Sample Cohort · Logistics Training",
+        "quote": "I joined right after SPM with no prior logistics background. Practising inventory checks and working through real operational scenarios gave me the confidence to speak clearly in interviews.",
+        "outcome": "Illustrative target role: Inventory Control Assistant (Pending official GIS verification)"
+      },
+      {
+        "name": "Sample Profile: Muhammad Hakimi (Illustrative)",
+        "cohort": "Sample Cohort · Supply Chain Operations",
+        "quote": "My parents initially worried about upfront fees and career direction after SPM. Reviewing the instalment options with a GIS advisor helped us plan ahead calmly.",
+        "outcome": "Illustrative target role: Dispatch & Logistics Coordinator (Pending official GIS verification)"
+      },
+      {
+        "name": "Sample Profile: Puan Norhayati (Illustrative Parent)",
+        "cohort": "Parent Perspective · Post-SPM Study",
+        "quote": "What reassured me most was being able to ask detailed questions about fees, schedules, and support before my son enrolled. Everything was explained plainly without pressure.",
+        "outcome": "Illustrative parent feedback (Pending official written consent)"
+      }
+    ]
+  },
+  "howTo": {
+    "eyebrow": "Simple Three-Step Enquiry",
+    "title": "How to Request Course Details via Official GIS WhatsApp",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Complete the Short Form",
+        "description": "Enter your full name, Malaysian mobile number, and email address in the enquiry form below."
+      },
+      {
+        "num": "02",
+        "title": "Review Your Prefilled Message",
+        "description": "We format your details into a clear enquiry message ready for your review before opening WhatsApp."
+      },
+      {
+        "num": "03",
+        "title": "Press Send in WhatsApp",
+        "description": "Tap Send inside WhatsApp to start a direct chat with a GIS advisor at +60 11-3181 2004."
+      }
+    ]
+  },
+  "leadForm": {
+    "eyebrow": "Official Course Enquiry",
+    "title": "I’m Interested in the Logistics Course",
+    "subtitle": "Ask your questions first, then decide with confidence. Complete the form below to open a direct WhatsApp chat with a GIS admissions advisor.",
+    "reassurance": [
+      "No fee or obligation for initial course enquiries and eligibility checks.",
+      "Transparent guidance on instalment plans and PTPK eligibility criteria.",
+      "Welcoming for parents enquiring on behalf of their child or SPM leavers directly."
+    ],
+    "fullNameLabel": "Full Name (Parent / Prospective Student)",
+    "fullNamePlaceholder": "e.g. Ahmad bin Razak",
+    "phoneLabel": "Mobile Phone Number (WhatsApp)",
+    "phonePlaceholder": "e.g. 012-345 6789",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "e.g. name@email.com",
+    "consentText": "I agree that GIS may use this information to contact me regarding the Logistics course.",
+    "privacyLink": "Read Privacy Notice",
+    "submitButton": "I’m Interested in the Logistics Course",
+    "submittingButton": "Preparing WhatsApp...",
+    "whatsappNote": "Clicking above opens WhatsApp to +60 11-3181 2004 with your prefilled details. Please remember to press Send inside WhatsApp.",
+    "errors": {
+      "fullNameRequired": "Please enter your full name.",
+      "fullNameShort": "Full name must be at least 2 characters.",
+      "phoneRequired": "Please enter a valid Malaysian mobile number.",
+      "phoneInvalid": "Please enter a valid Malaysian mobile number (e.g. 012-3456789 or +601131812004).",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address (e.g. name@domain.com).",
+      "consentRequired": "Please tick the consent box to proceed to WhatsApp."
+    },
+    "readyPanel": {
+      "title": "Your WhatsApp Message Is Ready to Send",
+      "warningNotice": "Important: Your enquiry is only delivered to a GIS advisor after you press Send inside WhatsApp.",
+      "previewLabel": "Message Preview for +60 11-3181 2004:",
+      "openWhatsappButton": "Open WhatsApp Now (+60 11-3181 2004)",
+      "copyButton": "Copy Message",
+      "copiedButton": "Message Copied",
+      "editButton": "Edit Details",
+      "fallbackTip": "If WhatsApp did not open automatically in your browser, click 'Open WhatsApp Now' above or copy the message and send it to +60 11-3181 2004."
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently Asked Questions",
+    "title": "Straightforward Answers for Parents & Students",
+    "subtitle": "Current intake schedules, fees, and campus specifics are confirmed directly by GIS advisors.",
+    "items": [
+      {
+        "q": "Are instalment payment plans available?",
+        "a": "Yes, GIS offers instalment payment options to help families manage education expenses steadily. For exact monthly schedules and current registration terms, please contact a GIS advisor to confirm."
+      },
+      {
+        "q": "How does PTPK financing work, and is approval guaranteed?",
+        "a": "Skills Development Fund Corporation (PTPK) financing is subject to current eligibility criteria, quota availability, and official approval. A GIS advisor can walk you through the initial eligibility requirements before enrolment."
+      },
+      {
+        "q": "What are the entry requirements and programme duration?",
+        "a": "The programme is designed for SPM leavers and young Malaysians interested in practical logistics skills. For exact programme duration, upcoming intake dates, and specific entry requirements, please contact a GIS advisor to confirm."
+      },
+      {
+        "q": "Where is the campus located and is student accommodation available?",
+        "a": "Current campus location details, nearby public transport links, and verified accommodation or student safety arrangements are provided directly during your consultation. Please contact a GIS advisor to confirm."
+      },
+      {
+        "q": "Does GIS guarantee job placement after graduation?",
+        "a": "GIS focuses on practical skills training and career readiness support such as CV preparation and interview coaching. Career outcomes depend on individual performance and employer hiring needs; we do not guarantee job placement."
+      },
+      {
+        "q": "Can parents speak with an advisor before deciding?",
+        "a": "Yes, of course. We encourage parents and guardians to reach out via the WhatsApp enquiry form on this page to ask questions calmly with no obligation to register."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ask Your Questions First, Then Decide With Confidence.",
+    "subtitle": "Receive full details on the Logistics curriculum, instalment payment options, and PTPK eligibility guidance directly from a GIS advisor.",
+    "button": "Enquire About the Course"
+  },
+  "footer": {
+    "brand": "Global Institute of Studies (GIS)",
+    "tagline": "Practical Logistics Training for SPM Leavers in Malaysia.",
+    "contactHeading": "Official Contact",
+    "whatsappLabel": "Advisor WhatsApp",
+    "whatsappNumber": "+60 11-3181 2004",
+    "emailLabel": "Official Email",
+    "emailPlaceholder": "Confirmed directly via GIS admissions advisor",
+    "linksHeading": "Quick Links",
+    "privacyHeading": "Transparency & Privacy",
+    "privacySummary": "Details entered in the enquiry form are used solely to prefill your WhatsApp enquiry to a GIS advisor. We do not sell or share your personal contact information with third parties.",
+    "accreditationNote": "Official accreditation details, programme codes, and certifications are confirmed directly with the Global Institute of Studies administration.",
+    "copyright": "© {year} Global Institute of Studies (GIS). All rights reserved."
+  },
+  "mobileCta": {
+    "label": "Logistics Course Info",
+    "button": "Enquire Now"
+  },
+  "privacyModal": {
+    "title": "GIS Course Enquiry Privacy Notice",
+    "close": "Close",
+    "paragraphs": [
+      "Global Institute of Studies (GIS) respects the privacy of parents, guardians, and prospective students enquiring about our Logistics course.",
+      "The information you enter (Full Name, Mobile Phone Number, and Email Address) is used solely to prepare your prefilled WhatsApp enquiry addressed to an official GIS advisor (+60 11-3181 2004) for course guidance, instalment planning, and preliminary PTPK eligibility enquiries.",
+      "Your message is only transmitted when you actively press Send inside WhatsApp. Personal contact details are never sent to page analytics.",
+      "To request a copy of our full institutional privacy policy or update your contact details, please notify your GIS admissions advisor directly."
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "title": "Kursus Logistik Lepasan SPM | Global Institute of Studies (GIS)",
+    "description": "Bina langkah pertama anak lepasan SPM ke dunia logistik dan rantaian bekalan bersama Global Institute of Studies (GIS). Pilihan bayaran ansuran & pembiayaan PTPK tertakluk kelayakan."
+  },
+  "nav": {
+    "brand": "GIS Logistik",
+    "program": "Program",
+    "benefits": "Kelebihan GIS",
+    "alumni": "Alumni",
+    "faq": "FAQ",
+    "cta": "Mohon Info Kursus",
+    "menuOpen": "Buka menu navigasi",
+    "menuClose": "Tutup menu navigasi",
+    "langToggleLabel": "Tukar bahasa"
+  },
+  "hero": {
+    "kicker": "Global Institute of Studies · Program Logistik Lepasan SPM",
+    "headline": "Anak Baru Habis SPM? Masa Depannya Bermula Dengan Pilihan Yang Tepat.",
+    "subheadline": "Terokai pembelajaran berorientasikan industri dalam bidang Logistik bersama GIS. Dapatkan maklumat mengenai kemudahan bayaran ansuran, pilihan pembiayaan PTPK tertakluk kelayakan, dan bimbingan kemahiran praktikal.",
+    "primaryCta": "Dapatkan Info Kursus",
+    "secondaryCta": "Lihat Kelebihan GIS",
+    "highlights": [
+      "Pembelajaran Berorientasikan Industri",
+      "Pilihan Bayaran Ansuran",
+      "Pembiayaan PTPK Tertakluk Kelayakan"
+    ],
+    "imageAlt": "Pelajar latihan logistik Malaysia memeriksa inventori dan mengimbas kod bar bungkusan di pusat pemenuhan moden yang terang",
+    "mediaCaption": "Foto ilustrasi persekitaran latihan logistik · Foto rasmi kampus GIS akan dikemas kini."
+  },
+  "concerns": {
+    "eyebrow": "Memahami Persoalan Ibu Bapa",
+    "title": "Kami Faham Kerisauan Ibu Bapa Selepas Keputusan SPM",
+    "subtitle": "Memilih hala tuju selepas SPM ialah keputusan besar bagi keluarga. Ini antara persoalan paling kerap yang dikongsikan oleh ibu bapa sebelum mendaftar.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Kos Pendaftaran & Yuran Yang Membebankan",
+        "description": "Banyak keluarga mencari laluan pengajian berkualiti tanpa perlu mengeluarkan bayaran penuh sekaligus di awal pendaftaran."
+      },
+      {
+        "num": "02",
+        "title": "Kejelasan Halatuju Kerjaya Selepas Tamat Belajar",
+        "description": "Ibu bapa mahu anak mempelajari bidang yang mempunyai keperluan operasi sebenar dalam ekonomi moden, bukan sekadar teori di atas kertas."
+      },
+      {
+        "num": "03",
+        "title": "Kesesuaian Kursus Dengan Minat Anak",
+        "description": "Tidak semua pelajar sesuai dengan laluan akademik konvensional. Ada yang lebih menyerlah melalui latihan praktikal, sistem operasi dan kerja berpasukan."
+      },
+      {
+        "num": "04",
+        "title": "Keselesaan & Persekitaran Belajar Jauh Dari Rumah",
+        "description": "Ibu bapa ingin memastikan anak belajar dalam suasana yang terjaga, teratur serta mempunyai sokongan penasihat sepanjang pengajian."
+      }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Pendekatan Global Institute of Studies",
+    "title": "Bagaimana GIS Membantu Perjalanan Pengajian Anak Anda",
+    "subtitle": "Struktur sokongan GIS dirangka untuk memberi ketenangan kepada ibu bapa dan asas kemahiran yang jelas kepada pelajar.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Kemudahan Bayaran Ansuran",
+        "description": "Pilihan pelan bayaran berperingkat membantu ibu bapa merancang perbelanjaan keluarga dengan lebih teratur. Tertakluk kepada terma pengesahan semasa pendaftaran."
+      },
+      {
+        "num": "02",
+        "title": "Pilihan Pembiayaan PTPK",
+        "description": "Calon yang memenuhi syarat boleh meneroka kemudahan pembiayaan Perbadanan Tabung Pembangunan Kemahiran (PTPK), tertakluk kepada kelayakan dan kelulusan semasa."
+      },
+      {
+        "num": "03",
+        "title": "Pendekatan Pengajaran Terkini",
+        "description": "Gabungan pemahaman asas rantaian bekalan, dokumentasi pengangkutan, pengendalian inventori serta latihan berasaskan tugasan operasi harian."
+      },
+      {
+        "num": "04",
+        "title": "Kemudahan & Ruang Belajar Selesa",
+        "description": "Persekitaran pembelajaran yang dikemas kini bagi menyokong keselesaan pelajar memberi tumpuan kepada latihan kelas dan kerja berkumpulan."
+      }
+    ]
+  },
+  "logistics": {
+    "eyebrow": "Pengenalan Bidang",
+    "title": "Apa Sebenarnya Yang Dipelajari Dalam Bidang Logistik?",
+    "subtitle": "Logistik ialah tulang belakang pergerakan barangan — daripada pengurusan gudang e-dagang hinggalah ke koordinasi penghantaran pelabuhan dan pengedaran harian.",
+    "pillars": [
+      {
+        "title": "Pengurusan Gudang & Ruang Simpanan",
+        "description": "Memahami susun atur rak simpanan, penerimaan stok masuk, penyusunan zon dan keselamatan pengendalian barangan."
+      },
+      {
+        "title": "Kawalan Inventori & Pengimbasan Data",
+        "description": "Menjejak jumlah stok, pengesahan kod bar, semakan rekod keluar masuk dan ketepatan laporan inventori."
+      },
+      {
+        "title": "Pengedaran & Koordinasi Pengangkutan",
+        "description": "Merancang jadual penghantaran, laluan agihan darat, dokumentasi konsainan serta penyelarasan antara pembekal dan penerima."
+      },
+      {
+        "title": "Asas Rantaian Bekalan (Supply Chain)",
+        "description": "Melihat gambaran menyeluruh bagaimana bahan mentah, pengeluar, hab pengedaran dan pengguna akhir berhubung dengan cekap."
+      }
+    ],
+    "trainingImageAlt": "Pelajar latihan logistik menggunakan pengimbas kod bar pegang tangan untuk merekod bungkusan di bilik latihan",
+    "hubImageAlt": "Pemandangan siang hari hab pengedaran logistik moden dengan deretan kontena dan lorong pengangkutan yang teratur",
+    "campusImageAlt": "Pelajar dan pensyarah berbincang pelan laluan penghantaran menggunakan komputer riba di bilik simulasi logistik yang terang",
+    "mediaNote": "Visual di atas adalah ilustrasi bidang logistik; butiran kurikulum terkini boleh disahkan terus bersama penasihat GIS."
+  },
+  "journey": {
+    "eyebrow": "Laluan Perkembangan Pelajar",
+    "title": "Daripada Minat Awal Hingga Persediaan Memasuki Industri",
+    "subtitle": "Setiap pelajar dibimbing secara berperingkat agar ibu bapa dapat melihat perkembangan kemahiran anak dari bulan pertama hingga tamat latihan.",
+    "steps": [
+      {
+        "step": "Langkah 01",
+        "title": "Minat & Sesi Bimbingan Awal",
+        "description": "Perbincangan bersama penasihat GIS bagi memahami kecenderungan pelajar, kelayakan serta pilihan pembiayaan yang sesuai."
+      },
+      {
+        "step": "Langkah 02",
+        "title": "Belajar Asas Operasi Logistik",
+        "description": "Pendedahan kepada istilah industri, aliran dokumen penghantaran, pengiraan inventori dan etika kerja profesional."
+      },
+      {
+        "step": "Langkah 03",
+        "title": "Latihan Kemahiran Praktikal",
+        "description": "Aktiviti simulasi pengendalian stok, penyelarasan jadual penghantaran dan penyelesaian masalah operasi berpasukan."
+      },
+      {
+        "step": "Langkah 04",
+        "title": "Persediaan Kerjaya & Transisi Kerja",
+        "description": "Pembinaan keyakinan diri, penyediaan resume dan bimbingan menghadapi temu duga dalam sektor logistik serta rantaian bekalan."
+      }
+    ]
+  },
+  "careers": {
+    "eyebrow": "Peluang Kerjaya Berpotensi",
+    "title": "Bidang Peranan Yang Boleh Diterokai Selepas Tamat Pengajian",
+    "subtitle": "Graduan bidang logistik berpeluang memohon pelbagai peranan operasi peringkat permulaan mengikut prestasi individu dan keperluan majikan semasa.",
+    "disclaimer": "Nota telus: Peranan di bawah adalah laluan kerjaya berpotensi dalam industri dan bukan jaminan penempatan kerja automatik.",
+    "roles": [
+      {
+        "title": "Operasi Gudang & Pusat Pemenuhan",
+        "description": "Mengurus penerimaan barangan, semakan kualiti bungkusan, penyusunan stok dan penyediaan pesanan pelanggan."
+      },
+      {
+        "title": "Pembantu Kawalan Inventori",
+        "description": "Memantau baki stok harian, melaksanakan kiraan kitaran inventori dan mengemas kini rekod sistem gudang."
+      },
+      {
+        "title": "Penyelaras Logistik & Penghantaran",
+        "description": "Menyelaras jadual kenderaan, dokumen penghantaran serta komunikasi antara pasukan gudang dan pelanggan."
+      },
+      {
+        "title": "Sokongan Rantaian Bekalan (Supply Chain)",
+        "description": "Membantu pasukan perolehan, penjejakan status pesanan pembekal dan penyediaan laporan aliran barang."
+      }
+    ]
+  },
+  "campus": {
+    "eyebrow": "Suasana Pembelajaran & Sokongan",
+    "title": "Persekitaran Yang Menyokong Fokus Pelajar",
+    "subtitle": "Kami mengutamakan suasana pembelajaran yang teratur, terang dan mudah diakses oleh pelajar baharu yang baru melangkah keluar daripada alam persekolahan.",
+    "highlights": [
+      {
+        "title": "Bimbingan Penasihat Akademik & Kemasukan",
+        "description": "Ibu bapa dan pelajar boleh berhubung terus dengan penasihat kursus bagi mendapatkan maklumat jadual, keperluan dokumen dan perkembangan pengajian."
+      },
+      {
+        "title": "Maklumat Penginapan & Lokasi Kampus",
+        "description": "Butiran lokasi kampus terkini, pilihan pengangkutan serta maklumat penginapan pelajar disahkan secara terus bersama pasukan pentadbiran GIS."
+      },
+      {
+        "title": "Pembangunan Disiplin & Kerja Berpasukan",
+        "description": "Latihan harian memupuk ketepatan masa, komunikasi jelas dan tanggungjawab diri yang amat dihargai oleh majikan industri."
+      }
+    ],
+    "cta": "Tanya Penasihat Tentang Kemudahan Kampus"
+  },
+  "alumni": {
+    "eyebrow": "Suara Pelajar & Alumni",
+    "title": "Pengalaman Pembelajaran Di GIS",
+    "notice": "Profil ilustrasi sementara — testimoni rasmi alumni bersama persetujuan bertulis sedang dikemas kini oleh pihak GIS.",
+    "pauseLabel": "Jeda",
+    "playLabel": "Main",
+    "prevLabel": "Testimoni sebelumnya",
+    "nextLabel": "Testimoni seterusnya",
+    "slideIndicator": "Paparan {current} daripada {total}",
+    "portraitAlt": "Potret ilustrasi graduan logistik Malaysia di koridor gudang yang terang",
+    "items": [
+      {
+        "name": "Contoh Profil: Nurul Aina (Ilustrasi)",
+        "cohort": "Kohort Contoh · Bidang Logistik",
+        "quote": "Saya mula belajar tanpa asas logistik selepas SPM. Latihan praktikal penyusunan inventori dan bimbingan pensyarah membantu saya lebih yakin apabila menghadiri temu duga operasi gudang.",
+        "outcome": "Contoh peranan sasaran: Pembantu Kawalan Inventori (Menunggu pengesahan rekod rasmi GIS)"
+      },
+      {
+        "name": "Contoh Profil: Muhammad Hakimi (Ilustrasi)",
+        "cohort": "Kohort Contoh · Bidang Rantaian Bekalan",
+        "quote": "Ibu bapa saya pada awalnya risau tentang kos dan hala tuju selepas SPM. Setelah berbincang mengenai pilihan ansuran dengan penasihat GIS, kami dapat merancang pengajian dengan lebih tenang.",
+        "outcome": "Contoh peranan sasaran: Penyelaras Operasi Penghantaran (Menunggu pengesahan rekod rasmi GIS)"
+      },
+      {
+        "name": "Contoh Profil: Puan Norhayati (Ilustrasi Ibu Bapa)",
+        "cohort": "Perspektif Penjaga · Pengajian Lepasan SPM",
+        "quote": "Apa yang paling melegakan saya ialah dapat bertanya semua soalan tentang yuran, jadual dan suasana belajar sebelum anak mendaftar. Penasihat menerangkan semuanya dengan jelas tanpa paksaan.",
+        "outcome": "Contoh maklum balas penjaga (Menunggu pengesahan bertulis rasmi GIS)"
+      }
+    ]
+  },
+  "howTo": {
+    "eyebrow": "Langkah Mudah Bermula",
+    "title": "Cara Memohon Maklumat Kursus Melalui WhatsApp Rasmi GIS",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Isi Borang Ringkas",
+        "description": "Masukkan nama penuh, nombor telefon bimbit dan alamat e-mel anda pada borang di bawah."
+      },
+      {
+        "num": "02",
+        "title": "Semak Mesej Pra-Isi",
+        "description": "Sistem akan menyediakan mesej pertanyaan yang kemas untuk semakan anda sebelum dibuka dalam WhatsApp."
+      },
+      {
+        "num": "03",
+        "title": "Tekan Hantar Di WhatsApp",
+        "description": "Klik butang Hantar (Send) dalam aplikasi WhatsApp untuk berhubung terus dengan penasihat GIS (+60 11-3181 2004)."
+      }
+    ]
+  },
+  "leadForm": {
+    "eyebrow": "Borang Pertanyaan Rasmi",
+    "title": "Dapatkan Info Kursus Logistik GIS",
+    "subtitle": "Bincang dahulu, buat keputusan dengan yakin. Isi maklumat anda untuk terus berhubung dengan penasihat kemasukan GIS di WhatsApp.",
+    "reassurance": [
+      "Tiada bayaran untuk sesi pertanyaan atau semakan kelayakan awal.",
+      "Penerangan telus mengenai pilihan bayaran ansuran & PTPK tertakluk kelayakan.",
+      "Sesuai untuk ibu bapa bertanya bagi pihak anak atau pelajar lepasan SPM sendiri."
+    ],
+    "fullNameLabel": "Nama Penuh (Ibu Bapa / Pelajar)",
+    "fullNamePlaceholder": "Contoh: Ahmad bin Razak",
+    "phoneLabel": "No. Telefon Bimbit (WhatsApp)",
+    "phonePlaceholder": "Contoh: 012-345 6789",
+    "emailLabel": "Alamat E-mel",
+    "emailPlaceholder": "Contoh: nama@emel.com",
+    "consentText": "Saya bersetuju maklumat ini digunakan oleh GIS untuk menghubungi saya berkaitan kursus Logistik.",
+    "privacyLink": "Lihat Notis Privasi",
+    "submitButton": "Saya Nak Join Kursus Logistik",
+    "submittingButton": "Menyediakan WhatsApp...",
+    "whatsappNote": "Klik butang di atas akan membuka WhatsApp ke +60 11-3181 2004 bersama mesej pra-isi. Anda perlu menekan butang Hantar (Send) di dalam WhatsApp.",
+    "errors": {
+      "fullNameRequired": "Sila masukkan nama penuh anda.",
+      "fullNameShort": "Nama penuh hendaklah sekurang-kurangnya 2 aksara.",
+      "phoneRequired": "Sila masukkan nombor telefon bimbit Malaysia yang sah.",
+      "phoneInvalid": "Format nombor tidak sah. Contoh sah: 012-3456789 atau +601131812004.",
+      "emailRequired": "Sila masukkan alamat e-mel anda.",
+      "emailInvalid": "Sila masukkan format alamat e-mel yang sah (contoh: nama@domain.com).",
+      "consentRequired": "Sila tandakan kotak persetujuan untuk meneruskan pertanyaan WhatsApp."
+    },
+    "readyPanel": {
+      "title": "Mesej WhatsApp Anda Sedia Untuk Dihantar",
+      "warningNotice": "Penting: Pertanyaan anda hanya akan diterima oleh penasihat GIS selepas anda menekan butang Hantar (Send) di dalam aplikasi WhatsApp.",
+      "previewLabel": "Pratonton Mesej Kepada +60 11-3181 2004:",
+      "openWhatsappButton": "Buka WhatsApp Sekarang (+60 11-3181 2004)",
+      "copyButton": "Salin Mesej",
+      "copiedButton": "Mesej Disalin",
+      "editButton": "Ubah Maklumat Borang",
+      "fallbackTip": "Jika aplikasi WhatsApp tidak terbuka secara automatik pada pelayar anda, klik butang 'Buka WhatsApp Sekarang' di atas atau salin mesej ini dan hantarkan ke +60 11-3181 2004."
+    }
+  },
+  "faq": {
+    "eyebrow": "Soalan Lazim (FAQ)",
+    "title": "Jawapan Ringkas Untuk Ibu Bapa & Bakal Pelajar",
+    "subtitle": "Butiran operasi terkini sentiasa disahkan oleh penasihat kemasukan GIS mengikut sesi pengambilan semasa.",
+    "items": [
+      {
+        "q": "Adakah pilihan bayaran secara ansuran disediakan?",
+        "a": "Ya, GIS menyediakan pilihan kemudahan bayaran ansuran bagi membantu perancangan kewangan keluarga. Untuk jadual bayaran tepat dan jumlah deposit semasa, sila hubungi penasihat GIS untuk pengesahan."
+      },
+      {
+        "q": "Bagaimana dengan pembiayaan PTPK? Adakah semua pelajar layak?",
+        "a": "Pembiayaan Perbadanan Tabung Pembangunan Kemahiran (PTPK) adalah tertakluk kepada syarat kelayakan semasa, kuota dan kelulusan pihak berkuasa berkaitan. Penasihat GIS akan membantu menyemak kelayakan asas anda sebelum pendaftaran."
+      },
+      {
+        "q": "Apakah syarat kemasukan minimum dan tempoh kursus?",
+        "a": "Program ini dirangka khas untuk lepasan SPM dan belia Malaysia yang berminat membina kemahiran dalam sektor logistik. Untuk tempoh pengajian terkini, tarikh pengambilan baharu serta syarat kelayakan terperinci, hubungi penasihat GIS untuk pengesahan."
+      },
+      {
+        "q": "Di manakah lokasi kampus dan adakah kemudahan penginapan disediakan?",
+        "a": "Maklumat lokasi kampus terkini, akses pengangkutan awam serta pilihan penginapan berhampiran dan tatacara keselamatan pelajar akan diterangkan secara terperinci mengikut pusat pengajian semasa. Hubungi penasihat GIS untuk pengesahan."
+      },
+      {
+        "q": "Adakah GIS menjamin pekerjaan selepas tamat kursus?",
+        "a": "GIS memberi tumpuan kepada latihan kemahiran praktikal dan persediaan kerjaya (seperti penyediaan resume dan bimbingan temu duga). Peluang pekerjaan bergantung kepada prestasi individu serta keperluan majikan industri, dan tiada jaminan penempatan automatik diberikan."
+      },
+      {
+        "q": "Bolehkah ibu bapa berbincang dengan penasihat dahulu sebelum mendaftar?",
+        "a": "Sudah tentu. Kami sangat menggalakkan ibu bapa dan penjaga menghubungi penasihat GIS terlebih dahulu melalui borang WhatsApp di halaman ini untuk bertanya sebarang persoalan tanpa komitmen pendaftaran."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Bincang Dahulu, Buat Keputusan Dengan Yakin.",
+    "subtitle": "Dapatkan penerangan lengkap mengenai silibus Logistik, pelan bayaran ansuran dan semakan kelayakan PTPK terus daripada penasihat GIS.",
+    "button": "Dapatkan Info Kursus Sekarang"
+  },
+  "footer": {
+    "brand": "Global Institute of Studies (GIS)",
+    "tagline": "Program Latihan & Kemahiran Logistik untuk Lepasan SPM di Malaysia.",
+    "contactHeading": "Hubungi Rasmi",
+    "whatsappLabel": "WhatsApp Penasihat",
+    "whatsappNumber": "+60 11-3181 2004",
+    "emailLabel": "E-mel Rasmi",
+    "emailPlaceholder": "Akan disahkan melalui penasihat kemasukan GIS",
+    "linksHeading": "Pautan Pantas",
+    "privacyHeading": "Ketelusan & Privasi",
+    "privacySummary": "Data peribadi yang diisi dalam borang pertanyaan hanya digunakan untuk menghantar mesej WhatsApp kepada penasihat GIS. Kami tidak menjual atau berkongsi maklumat hubungan anda kepada pihak ketiga.",
+    "accreditationNote": "Butiran akreditasi, kod program dan pensijilan rasmi disahkan terus bersama pasukan pentadbiran Global Institute of Studies.",
+    "copyright": "© {year} Global Institute of Studies (GIS). Hak cipta terpelihara."
+  },
+  "mobileCta": {
+    "label": "Info Kursus Logistik",
+    "button": "Mohon Info"
+  },
+  "privacyModal": {
+    "title": "Notis Privasi Pertanyaan Kursus GIS",
+    "close": "Tutup",
+    "paragraphs": [
+      "Global Institute of Studies (GIS) menghormati privasi ibu bapa, penjaga dan bakal pelajar yang membuat pertanyaan mengenai kursus Logistik.",
+      "Maklumat yang anda masukkan (Nama Penuh, No. Telefon Bimbit dan Alamat E-mel) digunakan secara langsung untuk menyediakan mesej pertanyaan WhatsApp ke nombor rasmi penasihat GIS (+60 11-3181 2004) bagi tujuan penerangan program, maklumat bayaran ansuran serta semakan awal kelayakan PTPK.",
+      "Penghantaran mesej hanya berlaku apabila anda menekan butang Hantar (Send) di dalam aplikasi WhatsApp. Maklumat peribadi anda tidak direkodkan dalam penjejak analitik halaman ini.",
+      "Untuk salinan penuh dasar privasi institusi rasmi atau permohonan kemas kini data, sila maklumkan terus kepada penasihat kemasukan GIS."
+    ]
+  }
+}
